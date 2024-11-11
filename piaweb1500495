@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GASTRONOMIA DE MONGOLIA</title>
+</head>
+<body bgcolor="red" text="yellow">
+<p>En esta pagina web te adentraras el exotico y desconocido mundo de una gastronomia ancestral que ha sobrevivido cientas de generaciones de nomadas a traves de los siglos, preparate para probar la delicia desde bebidas a base de leche de caballo o cabra, hasta la carne de camello.</p>
+<h1>GASTONOMIA DE MONGOLIA</h1>
+<h2>Buuz</h2>
+<img src="Buuz.jpg" style="width: 200px">
+<p>Cuando los veas por primera vez te recordarán a las empanadillas al vapor chinas o dumplings. Suelen estar rellenos de cordero aunque también se pueden encontrar de vaca. Se encuentran en prácticamente cualquier rincón del país y son muy baratos. Eso sí, no esperes que sean tan magros como los chinos, en Mongolia encontrarás pedacitos de grasa dentro de los dumplings.</p>
+<h2>Boortsog</h2>
+<img src="boortsog.jpg" style="width: 200px">
+<p>Este pastel cuya masa se hace con harina de trigo se prepara dulce o salado y se rellena con carne, con mantequilla o con miel. Aunque en las cartas de los restaurantes se suele traducir Boortsog como “galletas mongolas”, no te fíes, no tienen mucho que ver con las galletas que conoces. Para empezar porque no se hornean, se fríen.</p> 
+<h2>Suutei Tsai</h2>
+<img src="Suutei Tsai.jpg" style="width: 200px">
+<p>Esta bebida, también muy común en el país, no contiene alcohol. Se trata de una especie de te con leche que también lleva sal y mantequilla. Se toma en cualquier momento del día, entre horas a o para acompañar a las comidas.</p>
+</body>
+</html>
